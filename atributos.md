@@ -1,5 +1,6 @@
-"**: Para editar"
-"``: Para agregar"
+(**) Editar
+
+(``) Agregar
 
 
 # Camiones Tracto
