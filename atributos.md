@@ -11,8 +11,8 @@ No mencionar horometro para los camiones (Jóse [pepe])
 
 |  SKU  |  Modelo  | Tracción        |  Capacidad de estanque  |
 |-------|----------|-----------------|-------------------------|
-|542495 | 2550     |  `6x4`          |    `300LTS`             |
-|732494 | 2550     |  `6x4`          |     300LTS              |
+|542495 | 2550     |   6x4           |     300LTS              |
+|732494 | 2550     |   6x4           |     300LTS              |
 |732492 | 4840     |   8x8           |     300LTS              |
 
 ### Atributos:
@@ -32,14 +32,14 @@ No mencionar horometro para los camiones (Jóse [pepe])
 
 |  SKU  |  Modelo   | Horómetro |  Aire Acondicionado | Kilometraje   | Largo | Ancho | Peso bruto vehicular | Motor          | Cilindrada |
 |-------|-----------|-----------|---------------------|---------------|-------|-------|----------------------|----------------|------------|
-|542017 | CF 85 FTS |           |                     | 924881        |       |       |                      | PACCAR         |            |
-|542020 | CF 85 FTS |           |                     | 987932        |       |       |                      | PACCAR         |            |
-|542018 | CF 85 FTS |           |                     | 1256083       |       |       |                      | PACCAR         |            |
-|542577 | CF 85 FTS |           |                     | 1130450       |       |       |                      | PACCAR         |            |
-|542012 | CF 85 FTS |           |    `SI`             | 971281        |`6,1 M`|`2,55M`| `26.000 KG`          | PACCAR         |            |
-|540890 | CF 85 FT  | <195225>  |     SI              | 195225        |`6,2 M`|`2,55M`| `26.000 KG`          |**PACCAR M 13** |`12.900cc`  |
+|542017 | CF 85 FTS |           |     SI              | 924881        | 6,1 M | 2,55M | 26.000 KG            | PACCAR MX 13   | 12.900cc   |
+|542020 | CF 85 FTS |           |     SI              | 987932        | 6,1 M | 2,55M | 26.000 KG            | PACCAR MX 13   | 12.900cc   |
+|542018 | CF 85 FTS |           |     SI              | 1256083       | 6,1 M | 2,55M | 26.000 KG            | PACCAR MX 13   | 12.900cc   |
+|542577 | CF 85 FTS |           |     SI              | 1130450       | 6,1 M | 2,55M | 26.000 KG            | PACCAR MX 13   | 12.900cc   |
+|542012 | CF 85 FTS |           |     SI              | 971281        | 6,1 M | 2,55M | 26.000 KG            | PACCAR MX 13   | 12.900cc   |
+|540890 | CF 85 FT  | <195225>  |     SI              | 195225        | 6,2 M | 2,55M | 26.000 KG            | PACCAR MX 13   | 12.900cc   |
 |542554 | CF 85 FTS |           |     SI              | 981488        | 6,1 M | 2,55M | 26.000 KG            | PACCAR MX 13   | 12.900cc   |
-|542008 | XF105FTS  |           |     SI              | 947656        | 7,2 M | 2,4 M | 56.900 KG            | PACCAR MX 13	  | 12900cc    |
+|542008 | XF105FTS  |           |     SI              | 947656        | 7,2 M | 2,4 M | 56.900 KG            | PACCAR MX 13	  | 12.900cc   |
 |542236 | XF105FTS  | <909917>  |     SI              | 909808        | 7,2 M | 2,4 M | 56.900 KG            | PACCAR MX 13   | 12.900cc   |
 
 ### Atributos:
@@ -58,14 +58,14 @@ No mencionar horometro para los camiones (Jóse [pepe])
 
 ## FREIGHTLINER
 
-|  SKU  |  Modelo    | Horómetro | A/A | Kilometraje | Largo | Ancho | Alto | Cap. Carga | Motor   | Cilindrada | Neumáticos        | Tracción |Cap. Estanque |
-|-------|------------|-----------|-----|-------------|-------|-------|------|------------|---------|------------|-------------------|----------|--------------|
-|542703 | CL 120     |           |     | 971901      | 7,2 M | 2,4 M |      |            |         |            |                   |          |              |
-|542702 | CL 120     |           |     | 1173950     | 7,2 M | 2,4 M | 2,9M |            |         |            |                   |          | 240 L        |
-|542314 | CL 120     |           | SI  | 1040000     | 7,2 M | 2,4 M | 2,9M |            |         |            |                   |          | 240 L        |
-|542279 | M2 106 4X2 |           |     | 1130450     | 3,9 M |       |      | 43.598 KG  | CUMMINS | 8.900 CC   |                   | 6X2      |              |
-|542375 | ARGOSY     |           | SI  | 971281      |       |       |      |            |         |            |                   | 6X4      |              |
-|541863 | M2 106 6X2 |   6932    |     |             |       |       |      |            |         | 6400 M3    | 11.00 R 22,5 - 16 | 6x2      |              |
+|  SKU  |  Modelo    | Horómetro | A/A | Kilometraje | Largo | Ancho | Alto | Cap. Carga | Motor        | Cilindrada | Neumáticos        | Tracción |Cap. Estanque |
+|-------|------------|-----------|-----|-------------|-------|-------|------|------------|--------------|------------|-------------------|----------|--------------|
+|542703 | CL 120     |           |     | 971901      | 7,2 M | 2,4 M |      |            |              |            |                   |          |              |
+|542702 | CL 120     |           |     | 1173950     | 7,2 M | 2,4 M | 2,9M |            |              |            |                   |          | 240 L        |
+|542314 | CL 120     |           | SI  | 1040000     | 7,2 M | 2,4 M | 2,9M |            |              |            |                   |          | 240 L        |
+|542279 | M2 106 4X2 |           |     | 1130450     | 3,9 M |       |      | 43.598 KG  | CUMMINS      | 8.900 CC   |                   | 6X2      |              |
+|542375 | ARGOSY     |           | SI  | 971281      |       |       |      |            |              |            |                   | 6X4      |              |
+|541863 | M2 106 6X2 | <6932>    | SI  | 119282      | 7,9 M | 2,5 M |`    `| 30.000 KG  | Cummins B6.7 | 6,7 litros | 11.00 R 22,5 - 16 | 6x2      | 227 Litros   |
 
 ### Atributos:
 | 542314           | 542703            | 542702             | 541863             | 542375             | 542279             |
