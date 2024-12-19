@@ -58,14 +58,14 @@ No mencionar horometro para los camiones (Jóse [pepe])
 
 ## FREIGHTLINER
 
-|  SKU  |  Modelo    | Horómetro | A/A | Kilometraje | Largo | Ancho | Alto | Cap. Carga | Motor        | Cilindrada | Neumáticos        | Tracción |Cap. Estanque |
-|-------|------------|-----------|-----|-------------|-------|-------|------|------------|--------------|------------|-------------------|----------|--------------|
-|542703 | CL 120     |           |     | 971901      | 7,2 M | 2,4 M |      |            |              |            |                   |          |              |
-|542702 | CL 120     |           |     | 1173950     | 7,2 M | 2,4 M | 2,9M |            |              |            |                   |          | 240 L        |
-|542314 | CL 120     |           | SI  | 1040000     | 7,2 M | 2,4 M | 2,9M |            |              |            |                   |          | 240 L        |
-|542279 | M2 106 4X2 |           |     | 1130450     | 3,9 M |       |      | 43.598 KG  | CUMMINS      | 8.900 CC   |                   | 6X2      |              |
-|542375 | ARGOSY     |           | SI  | 971281      |       |       |      |            |              |            |                   | 6X4      |              |
-|541863 | M2 106 6X2 | <6932>    | SI  | 119282      | 7,9 M | 2,5 M |`    `| 30.000 KG  | Cummins B6.7 | 6,7 litros | 11.00 R 22,5 - 16 | 6x2      | 227 Litros   |
+|  SKU  |  Modelo    | Horómetro | A/A | Kilometraje | Largo | Ancho | Alto | Cap. Carga | Motor            | Cilindrada | Neumáticos        | Tracción |Cap. Estanque |
+|-------|------------|-----------|-----|-------------|-------|-------|------|------------|------------------|------------|-------------------|----------|--------------|
+|542703 | CL 120     |           | SI  | 971901      | 7,2 M | 2,4 M | 2,9M | 36.000 KG  | Detroit D. S60   | 12,7 L     | 295/80R 22.5      | 6X4      | 604 L        |
+|542702 | CL 120     |           | SI  | 1173950     | 7,2 M | 2,4 M | 2,9M | 36.000 KG  | Detroit D. S60   | 12,7 L     | 295/80R 22.5      | 6X4      | 604 L        |
+|542314 | CL 120     |           | SI  | 1040000     | 7,2 M | 2,4 M | 2,9M | 36.000 KG  | Detroit D. S60   | 12,7 L     | 295/80R 22.5      | 6X4      | 604 L        |
+|542279 | M2 106 4X2 |           | SI  | 1130450     | 3,9 M | 2,4 M | 2,8M | 32.000 KG  | M.B. MBE 900     | 8.900 CC   | 11 R 22,5         | 4X2      | 378 L        |
+|542375 | ARGOSY     |           | SI  | 971281      | 7,5 M | 2,5 M | 2,9M | 36.000 KG  | Detroir DD15     | 14,8 L     | 11 R 22,5         | 6X4      | 400 L        |
+|541863 | M2 106 6X2 | <6932>    | SI  | 119282      | 7,9 M | 2,5 M | 2,9M | 30.000 KG  | Cummins B6.7     | 6,7 litros | 11.00 R 22,5 - 16 | 6x2      | 227 L        |
 
 ### Atributos:
 | 542314           | 542703            | 542702             | 541863             | 542375             | 542279             |
@@ -85,11 +85,11 @@ No mencionar horometro para los camiones (Jóse [pepe])
 
 |  SKU  |  Modelo    | Horómetro | A/A | Kilometraje | Largo | Peso Bruto V. | Cap. Carga | Motor       | Cilindrada | Neumáticos | Tracción |Cap. Estanque |
 |-------|------------|-----------|-----|-------------|-------|---------------|------------|-------------|------------|------------|----------|--------------|
-|542535 | 7600       | 3296      |     |             |       |               | 8090 KG    | CUMMINS ISM |            | 11R22.5    | 6X4      | 379 L        |
-|541305 | PROSTAR    |           | SI  | 1042073     | 7,28M | 27.200 KG     |            |             | 14,9 L     | 11R22.5    |          | 378 L        |
-|541117 | PROSTAR    |           |     | 1015166     |       |               |            |             |            |            |          |              |
-|542758 | 9200       |           | SI  | 687891      |       |               |            | ISX         | 8.900 CC   |            | 6X2      |              |
-|540947 | PROSTAR    |           |     | 993114      |       |               | 18400 KG   | CUMMINS     |            |            | 6X4      |              |
+|542535 | 7600       | 3296      | SI  |             | 7,7 M | 27.215 KG     | 19.298KG   | CUMMINS ISM | 10,8 L     | 11R22.5    | 6X4      | 379 L        |
+|541305 | PROSTAR    |           | SI  | 1042073     | 7,28M | 27.200 KG     | 18.400 KG  | C.ISX EPA04 | 14,9 L     | 11R22.5    | 6X4      | 378 L        |
+|541117 | PROSTAR    |           | SI  | 1015166     | 7,28M | 27.200 KG     | 18.400 KG  | C.ISX EPA04 | 14,9 L     | 11R22.5    | 6X4      | 378 L        |
+|542758 | 9200       |           | SI  | 687891      | 8,2 M | 27.215 KG     | 18.143 KG  | ISX         | 8.900 CC   | 11R22.5    | 6X2      | 400 L        |
+|540947 | PROSTAR    |           | SI  | 993114      | 7,28M | 27.200 KG     | 18.400 KG  | CUMMINS     | 14,9 L     | 11R22.5    | 6X4      | 378 L        |
 
 ### Atributos:
 | 542535           | 541117            | 541305             | 540947             | 542758             |
@@ -110,7 +110,7 @@ No mencionar horometro para los camiones (Jóse [pepe])
 
 |  SKU  |  Modelo    | Horómetro | Kilometraje | Potencia |
 |-------|------------|-----------|-------------|----------|
-|541866 | T800       | 802000    |             |          |
+|541866 | T800       | 802000    |             |`380 HP`  |
 |541837 | T800       |           | 754543      | 380 HP   |
 
 ### Atributos:
@@ -130,9 +130,9 @@ No mencionar horometro para los camiones (Jóse [pepe])
 
 |  SKU  |  Modelo    | Motor | Capacidad de Carga |
 |-------|------------|-------|--------------------|
-|542759 | CXU613E    |       |                    |
-|542760 | CXU613E    | MP8   |                    |
-|542762 | CXU613E    |       | 36.000 KG          |
+|542759 | CXU613E    |`MP8`  |`36.000 KG`         |
+|542760 | CXU613E    | MP8   |`36.000 KG`         |
+|542762 | CXU613E    |`MP8`  | 36.000 KG          |
 
 ### Atributos:
 | 542759             | 542762              | 542760              |
@@ -148,11 +148,11 @@ No mencionar horometro para los camiones (Jóse [pepe])
 
 ## VOLKSWAGEN
 
-|  SKU  |  Modelo              | Tracción | Largo | A/A | Cap. estanque | Ancho |Peso bruto v.| Cap. Carga | Alto  | Kilometraje | Neumáticos | Cilindrada       |
-|-------|----------------------|----------|-------|-----|---------------|-------|-------------|------------|-------|-------------|------------|------------------|
-|542761 | CONSTELLATION        |          |       | SI  | 440 L	        |       |             |            |       | 639938      |            |                  |
-|542586 | CONSTELLATION        | 6X2      | 6,9 M	|     |               | 2,5 M |             | 56.000 KG  | 2,9 M |             |295/80R22.5 |                  |
-|541313 | CONSTELLATION 24.280 | 6X2      | 7,4 M | SI  | 2 x 275       |       | 35000 KG    |            | 2,8 M | 536200      |275/80R22,5 |6 en línea / 6.871|
+|  SKU  |  Modelo              | Tracción | Largo | A/A | Cap. estanque | Ancho |Peso bruto v.| Cap. Carga | Alto  | Kilometraje | Neumáticos  | Cilindrada       |
+|-------|----------------------|----------|-------|-----|---------------|-------|-------------|------------|-------|-------------|-------------|------------------|
+|542761 | CONSTELLATION 19.330 | 4X2      | 7,5 M | SI  | 440 L	        | 2,5 M | 19.000 KG   | 12.000 KG  | 3,2 M | 639938      |295/80R22.5  | 8,9 L            |
+|542586 | CONSTELLATION 25.390 | 6X2      | 6,9 M	| SI  | 440 L         | 2,9 M | 56.000 KG   | 53.000 KG  | 2,9 M |             |295/80R22.5  | 8,9 L            |
+|541313 | CONSTELLATION 24.280 | 6X2      | 7,4 M | SI  | 2 x 275       | 2,9 M | 35000 KG    | 24.100 KG  | 2,8 M | 536200      |275/80R22,5  |6 en línea / 6.871|
 
 ### Atributos:
 | 542761             | 542586              | 541313              |
@@ -170,4 +170,27 @@ No mencionar horometro para los camiones (Jóse [pepe])
 |                    | Tracción            | Potencia            |
 |                    | Tracción            | Cilindrada          |
 |                    | Tracción            | Motor               |
+
+
+
+
+SKU's:
+- 542144
+- 541866
+- 542144
+- 732494
+- 540947
+- 542017
+- 542554
+- 542758
+- 542279
+- 542586
+- 542577
+- 542495
+- 542012
+- 542535
+- 542749
+
+- revisar el 732492
+
 
