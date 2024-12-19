@@ -36,9 +36,9 @@ No mencionar horometro para los camiones (Jóse [pepe])
 |542020 | CF 85 FTS |           |                     | 987932        |       |       |                      | PACCAR         |            |
 |542018 | CF 85 FTS |           |                     | 1256083       |       |       |                      | PACCAR         |            |
 |542577 | CF 85 FTS |           |                     | 1130450       |       |       |                      | PACCAR         |            |
-|542012 | CF 85 FTS |           |                     | 971281        |       |       |                      | PACCAR         |            |
-|540890 | CF 85 FT  | <195225>  |     SI              | 195225        |`6,0 M`|`2,49M`|                      | PACCAR         |`12.900cc`  |
-|542554 | CF 85 FTS |           |     SI              | 981488        | 6,1 M | 2,55M | 26.000 KG            |  PACCAR MX 13  | 12.900cc   |
+|542012 | CF 85 FTS |           |    `SI`             | 971281        |`6,1 M`|`2,55M`| `26.000 KG`          | PACCAR         |            |
+|540890 | CF 85 FT  | <195225>  |     SI              | 195225        |`6,2 M`|`2,55M`| `26.000 KG`          |**PACCAR M 13** |`12.900cc`  |
+|542554 | CF 85 FTS |           |     SI              | 981488        | 6,1 M | 2,55M | 26.000 KG            | PACCAR MX 13   | 12.900cc   |
 |542008 | XF105FTS  |           |     SI              | 947656        | 7,2 M | 2,4 M | 56.900 KG            | PACCAR MX 13	  | 12900cc    |
 |542236 | XF105FTS  | <909917>  |     SI              | 909808        | 7,2 M | 2,4 M | 56.900 KG            | PACCAR MX 13   | 12.900cc   |
 
