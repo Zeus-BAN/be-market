@@ -137,7 +137,7 @@ No mencionar horometro para los camiones (Jóse [pepe])
 
 |  SKU  |  Modelo    | Horómetro | Kilometraje | Potencia |
 |-------|------------|-----------|-------------|----------|
-|541866 | T800       | 802000    |             |`380 HP`  |
+|541866 | T800       | 802000    |             | 380 HP   |
 |541837 | T800       |           | 754543      | 380 HP   |
 
 ### Atributos:
