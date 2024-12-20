@@ -164,9 +164,9 @@ No mencionar horometro para los camiones (Jóse [pepe])
 
 |  SKU  |  Modelo    | Motor | Capacidad de Carga |
 |-------|------------|-------|--------------------|
-|542759 | CXU613E    |`MP8`  |`36.000 KG`         |
-|542760 | CXU613E    | MP8   |`36.000 KG`         |
-|542762 | CXU613E    |`MP8`  | 36.000 KG          |
+|542759 | CXU613E    | MP8   | 36.000 KG          |
+|542760 | CXU613E    | MP8   | 36.000 KG          |
+|542762 | CXU613E    | MP8   | 36.000 KG          |
 
 ### Atributos:
 | 542759             | 542762              | 542760              |
