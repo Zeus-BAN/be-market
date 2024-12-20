@@ -16,16 +16,24 @@ No mencionar horometro para los camiones (Jóse [pepe])
 |732492 | 4840     |   8x8           |     300LTS              |
 
 ### Atributos:
-| 542495             | 732494              | 732492              |
+| 732492             | 542495              | 732494              |
 |--------------------|---------------------|---------------------|
 |Equipo Nuevo        | Equipo Nuevo        | Equipo Nuevo        |
 |Kilometraje         | Kilometraje         | Kilometraje         |
+|Largo               | Largo               | Largo               |
+|Ancho               | Ancho               | Ancho               |
+|Alto                | Alto                | Alto                |
 |Pais Origen         | Pais Origen         | Pais Origen         |
-|Ubicación           | Tracción            | Capacidad estanque  |
-|Potencia            | Potencia            | Potencia            |
-|Capacidad estanque  | Capacidad estanque  | Tracción            |
-|Tracción            | Aire Acondicionado  | Ubicación           |
-|Aire Acondicionado  | Ubicación           | Aire Acondicionado  |
+|Motor               | Potencia            | Capacidad estanque  |
+|Neumáticos          | Capacidad estanque  | Aire Acondicionado  |
+|Capacidad de carga  | Ubicación           | Potencia            |
+|Cilindrada          | Tracción            | Tracción            |
+|Peso Bruto V.       | Peso Bruto V.       | Ubicación           |
+|Aire Acondicionado  | Motor               | Peso bruto V.       |
+|Capacidad estanque  | Neumáticos          | Capacidad de Carga  |
+|Potencia            | Cilindrada          | Cilindrada          |
+|Ubicación           | Aire Acondicionado  | Motor               |
+|Tracción            |                     | Neumáticos          |
 
 
  ## DAF
@@ -43,18 +51,24 @@ No mencionar horometro para los camiones (Jóse [pepe])
 |542236 | XF105FTS  | <909917>  |     SI              | 909808        | 7,2 M | 2,4 M | 56.900 KG            | PACCAR MX 13   | 12.900cc   |
 
 ### Atributos:
-| 542018      | 542017       | 542020       | 540890             | 542577      | 542012      | 542008             | 542554             | 542236             |
-|-------------|--------------|--------------|--------------------|-------------|-------------|--------------------|--------------------|--------------------|
-|Kilometraje  | Kilometraje  | Kilometraje  | Horómetro          | Kilometraje | Kilometraje | Kilometraje        | Kilometraje        | Horómetro          |
-|Pais Origen  | Pais Origen  | Pais Origen  | Pais Origen        | Pais Origen | Pais Origen | Largo              | Pais Origen        | Pais Origen        |
-|Tracción     | Tracción     | Potencia     | Potencia           | Potencia    | Ubicación   | Ancho              | Potencia           | Ubicación          |
-|Potencia     | Potencia     | Tracción     | Motor              | Motor       | Motor       | Pais Origen        | Motor              | Potencia           |
-|Motor        | Motor        | Motor        | Aire Acondicionado | Tracción    | Potencia    | Potencia           | Tracción           | Motor              |
-|Ubicación    | Ubicación    | Ubicación    | Tracción           | Ubicación   | Tracción    | Cilindrada         | Aire Acondicionado | Tracción           |
-|             |              | Transmisión  | Ubicación          |             |             |Peso bruto vehicular| Ubicación          |                    |
-|             |              |              | Transmisión        |             |             | Motor              |                    |                    |
-|             |              |              |                    |             |             | Tracción           |                    |                    |
-|             |              |              |                    |             |             | Ubicación          |                    |                    |
+| 542018           | 542017             | 542020             | 540890             | 542577             | 542012             | 542554             | 542236             |
+|------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
+|Kilometraje       | Kilometraje        | Kilometraje        | Horómetro          | Kilometraje        | Kilometraje        | Kilometraje        | Horómetro          |
+|Largo             | Largo              | Largo              | Largo              | Largo              | Largo              | Largo              | Largo              |
+|Ancho             | Ancho              | Ancho              | Ancho              | Ancho              | Ancho              | Ancho              | Ancho              |
+|Alto              | Pais Origen        | Alto               | Pais Origen        | Alto               | Alto               | Alto               | Alto               |
+|Pais Origen       | Tracción           | Pais Origen        | Capacidad de Carga | Pais Origen        | Pais Origen        | Pais Origen        | Pais Origen        |
+|Aire Acon.        | Cilindrada         | Motor              | Aire Acondicionado | Capacidad estanque | Ubicación          | Peso bruto V.      | Neumáticos         |
+|Potencia          | Aire Acon.         | Potencia           | Ubicación          | Capacidad de Carga | Capacidad de Carga | Motor              | Ubicación          |
+|Tracción          | Potencia           | Tracción           | Peso bruto V.      | Peso bruto V.      | Cilindrada         | Cilindrada         | Cilindrada         |
+|Capacidad de Carga| Peso bruto V.      | Aire Acon.         | Tracción           | Aire Acondicionado | Aire Acondicionado | Neumáticos         | Peso bruto V.      |
+|Cilindrada        | Motor              | Peso bruto v.      | Transmisión        | Motor              | Peso bruto V.      | Capacidad estanque | Aire Acondicionado |
+|Neumáticos        | Capacidad estanque | Capacidad estanque | Motor              | Cilindrada         | Potencia           | Potencia           | Capacidad estanque |
+|Capacidad estanque| Capacidad de Carga | Transmisión        | Cilindrada         | Potencia           | Tracción           | Capacidad de Carga | Tracción           |
+|Motor             | Neumáticos         | Neumáticos         | Neumáticos         | Tracción           | Capacidad estanque | Tracción           | Capacidad de Carga |
+|Ubicación         | Ubicación          | Cilindrada         | Capacidad estanque | Ubicación          | Motor              | Aire Acondicionado | Potencia           |
+|Peso bruto V.     |                    | Capacidad de Carga | Potencia           | Neumáticos         | Neumáticos         | Ubicación          | Motor              |
+|                  |                    | Ubicación          |                    |                    |                    |                    |                    |
 
 ## FREIGHTLINER
 
@@ -68,18 +82,25 @@ No mencionar horometro para los camiones (Jóse [pepe])
 |541863 | M2 106 6X2 | <6932>    | SI  | 119282      | 7,9 M | 2,5 M | 2,9M | 30.000 KG  | Cummins B6.7     | 6,7 litros | 11.00 R 22,5 - 16 | 6x2      | 227 L        |
 
 ### Atributos:
-| 542314           | 542703            | 542702             | 541863             | 542375             | 542279             |
-|------------------|-------------------|--------------------|--------------------|--------------------|--------------------|
-|Kilometraje       | Kilometraje       | Kilometraje        | Horómetro          | Kilometraje        | Kilometraje        |
-|Largo             | Largo             | Largo              | Pais Origen        | Pais Origen        | Largo              |
-|Ancho             | Ancho             | Ancho              | Tracción           | Potencia           | Pais Origen        |
-|Alto              | Alto              | Alto               | Potencia           | Aire Acondicionado | Motor              |
-|Pais Origen       | Pais Origen       | Pais Origen        | Peso operacional   | Tracción           | Ubicación          |
-|Potencia          | Peso bruto v.     | Potencia           | Transmisión        | Ubicación          | Tracción           |
-|Peso bruto v.     | Capacidad estanque| Peso bruto v.      | Neumáticos         |                    | Potencia           |
-|Aire Acondicionado| Potencia          | Capacidad estanque | Ubicación          |                    | Cilindrada         |
-|Capacidad estanque| Ubicación         | Ubicación          | Cilindrada         |                    | Capacidad de Carga |
-|Ubicación         |                   |                    |                    |                    |                    |
+| 542314            | 542703             | 542702             | 541863             | 542375             | 542279             |
+|-------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
+|Kilometraje        | Kilometraje        | Kilometraje        | Kilometraje        | Kilometraje        | Kilometraje        |
+|Largo              | Largo              | Largo              | Horómetro          | Largo              | Largo              |
+|Ancho              | Ancho              | Ancho              | Largo              | Ancho              | Ancho              |
+|Alto               | Alto               | Alto               | Ancho              | Alto               | Alto               |
+|Pais Origen        | Pais Origen        | Pais Origen        | Alto               | Pais Origen        | Pais Origen        |
+|Potencia           | Neumáticos         | Potencia           | Pais Origen        | Neumáticos         | Neumáticos         |
+|Capacidad de Carga | Tracción           | Ubicación          | Aire Acondicionado | Capacidad estanque | Capacidad estanque |
+|Motor              | Capacidad estanque | Capacidad de Carga | Capacidad estanque | Peso bruto V.      | Potencia           |
+|Capacidad estanque | Potencia           | Peso bruto V.      | Potencia           | Potencia           | Capacidad de Carga |
+|Tracción           | Ubicación          | Motor              | Transmisión        | Aire Acondicionado | Cilindrada         |
+|Peso bruto V.      | Peso bruto V.      | Cilindrada         | Neumáticos         | Tracción           | Peso bruto V.      |
+|Aire Acondicionado | Aire Acondicionado | Neumáticos         | Capacidad de Carga | Motor              | Motor              |
+|Neumáticos         | Capacidad de Carga | Tracción           | Motor              | Ubicación          | Ubicación          |
+|Ubicación          | Motor              | Capacidad estanque | Cilindrada         | Cilindrada         | Aire Acondicionado |
+|Cilindrada         | Cilindrada         | Aire Acondicionado | Peso bruto V.      | Capacidad de Carga | Tracción           |
+|                   |                    |                    | Ubicación          |                    |                    |
+|                   |                    |                    | Tracción           |                    |                    |
 
 ## INTERNATIONAL
 
@@ -92,18 +113,24 @@ No mencionar horometro para los camiones (Jóse [pepe])
 |540947 | PROSTAR    |           | SI  | 993114      | 7,28M | 27.200 KG     | 18.400 KG  | CUMMINS     | 14,9 L     | 11R22.5    | 6X4      | 378 L        |
 
 ### Atributos:
-| 542535           | 541117            | 541305             | 540947             | 542758             |
-|------------------|-------------------|--------------------|--------------------|--------------------|
-|Horómetro         | Kilometraje       | Kilometraje        | Kilometraje        | Kilometraje        |
-|Pais Origen       | Pais Origen       | Largo              | Pais Origen        | Pais Origen        |
-|Tracción          | Ubicación         | Pais Origen        | Ubicación          | Tracción           |
-|Neumáticos        | Potencia          | Neumáticos         | Tracción           | Potencia           |
-|Ubicación         |                   | Capacidad estanque | Capacidad de Carga | Motor              |
-|Capacidad estanque|                   | Ubicación          | Motor              | Aire Acondicionado |
-|Capacidad de Carga|                   | Peso bruto v.      | Potencia           | Ubicación          |
-|Motor             |                   | Potencia           | Transmisión        |                    |
-|Potencia          |                   | Cilindrada         |                    |                    |
-|                  |                   | Aire Acondicionado |                    |                    |
+| 542535           | 540947             | 541117             | 541305             |
+|------------------|--------------------|--------------------|--------------------|
+|Horómetro         | Kilometraje        | Kilometraje        | Kilometraje        |
+|Largo             | Largo              | Largo              | Largo              |
+|Ancho             | Ancho              | Ancho              | Ancho              |
+|Pais Origen       | Alto               | Alto               | Alto               |
+|Cilindrada        | Pais Origen        | Pais Origen        | Pais Origen        |
+|Potencia          | Motor              | Motor              | Capacidad estanque |
+|Motor             | Potencia           | Cilindrada         | Ubicación          |
+|Capacidad estanque| Peso bruto V.      | Tracción           | Motor              |
+|Neumáticos        | Neumáticos         | Capacidad estanque | Tracción           |
+|Tracción          | Capacidad estanque | Potencia           | Peso bruto V.      |
+|Capacidad de Carga| Aire Acondicionado | Ubicación          | Capacidad de Carga |
+|Ubicación         | Cilindrada         | Neumáticos         | Cilindrada         |
+|Peso bruto V.     | Transmisión        | Aire Acondicionado | Potencia           |
+|Aire Acondicionado| Ubicación          | Peso bruto V.      | Aire Acondicionado |
+|Aire Acondicionado| Tracción           | Capacidad de Carga | Neumáticos         |
+|Aire Acondicionado| Capacidad de Carga |                    |                    |
 
 
 ## KENWORTH
@@ -118,13 +145,20 @@ No mencionar horometro para los camiones (Jóse [pepe])
 |--------------------|---------------------|
 |Kilometraje         | Horómetro           |
 |Largo               | Largo               |
+|Ancho               | Ancho               |
 |Alto                | Alto                |
 |Pais Origen         | Pais Origen         |
-|Tracción            | Transmisión         |
-|Potencia            | Peso bruto v.       |
-|Ubicación           | Tracción            |
-|Peso bruto v.       | Ubicación           |
-|Transmisión         |                     |
+|Potencia            | Tracción            |
+|Ubicación           | Peso bruto V.       |
+|Aire Acondicionado  | Potencia            |
+|Motor               | Aire Acondicionado  |
+|Capacidad de Carga  | Capacidad estanque  |
+|Capacidad estanque  | Neumáticos          |
+|Peso bruto V.       | Transmisión         |
+|Transmisión         | Motor               |
+|Cilindrada          | Ubicación           |
+|Neumáticos          | Capacidad de Carga  |
+|Tracción            | Cilindrada          |
 
 ## MACK
 
@@ -138,12 +172,20 @@ No mencionar horometro para los camiones (Jóse [pepe])
 | 542759             | 542762              | 542760              |
 |--------------------|---------------------|---------------------|
 |Kilometraje         | Kilometraje         | Kilometraje         |
+|Largo               | Largo               | Largo               |
+|Ancho               | Ancho               | Ancho               |
+|Alto                | Alto                | Alto                |
 |Pais Origen         | Pais Origen         | Pais Origen         |
-|Potencia            | Motor               | Aire Acondicionado  |
-|Aire Acondicionado  | Ubicación           | Ubicación           |
-|Ubicación           | Capacidad de Carga  | Potencia            |
-|                    | Aire Acondicionado  |                     |
-|                    | Potencia            |                     |
+|Ubicación           | Capacidad de Carga  | Motor               |
+|Neumáticos          | Motor               | Capacidad de Carga  |
+|Capacidad de Carga  | Tracción            | Aire Acondicionado  |
+|Cilindrada          | Cilindrada          | Neumáticos          |
+|Capacidad estanque  | Neumáticos          | Capacidad estanque  |
+|Tracción            | Capacidad estanque  | Cilindrada          |
+|Potencia            | Aire Acondicionado  | Tracción            |
+|Aire Acondicionado  | Potencia            | Peso bruto V.       |
+|Motor               | Potencia            | Potencia            |
+|Peso bruto V.       | Peso bruto V.       | Ubicación           |
 
 
 ## VOLKSWAGEN
@@ -155,27 +197,28 @@ No mencionar horometro para los camiones (Jóse [pepe])
 |541313 | CONSTELLATION 24.280 | 6X2      | 7,4 M | SI  | 2 x 275       | 2,9 M | 35000 KG    | 24.100 KG  | 2,8 M | 536200      |275/80R22,5  |6 en línea / 6.871|
 
 ### Atributos:
-| 542761             | 542586              | 541313              |
+| 542761             | `542586`            | 541313              |
 |--------------------|---------------------|---------------------|
 |Kilometraje         | Largo               | Kilometraje         |
-|Pais Origen         | Ancho               | Largo               |
-|Potencia            | Alto                | Alto                |
-|Capacidad estanque  | Pais Origen         | Pais Origen         |
-|Ubicación           | Motor               | Neumáticos          |
-|Motor               | Ubicación           | Ubicación           |
-|Aire Acondicionado  | Neumáticos          | Capacidad estanque  |
-|                    | Capacidad de Carga  | Peso bruto v.       |
-|                    | Potencia            | Aire Acondicionado  |
-|                    | Tracción            | Tracción            |
-|                    | Tracción            | Potencia            |
-|                    | Tracción            | Cilindrada          |
-|                    | Tracción            | Motor               |
+|Largo               | Ancho               | Largo               |
+|Ancho               | Alto                | Ancho               |
+|Alto                | Pais Origen         | Alto                |
+|Pais Origen         | Tracción            | Pais Origen         |
+|Potencia            | Neumáticos          | Neumáticos          |
+|Capacidad estanque  | Ubicación           | Aire Acondicionado  |
+|Peso bruto vehicular| Aire Acondicionado  | Peso bruto v.       |
+|Capacidad de Carga  | Capacidad estanque  | Capacidad estanque  |
+|Neumáticos          | Peso bruto V.       | Ubicación           |
+|Cilindrada          | Capacidad de Carga  | Capacidad de Carga  |
+|Tracción            | Cilindrada          | Tracción            |
+|Ubicación           | Potencia            | Potencia            |
+|Motor               | Motor               | Cilindrada          |
+|Aire Acondicionado  |                     | Motor               |
 
 
 
 
 SKU's:
-- 542144
 - 541866
 - 542144
 - 732494
@@ -190,7 +233,22 @@ SKU's:
 - 542012
 - 542535
 - 542749
-
-- revisar el 732492
-
-
+- 542144
+- 732492
+- 542759
+- 542762
+- 542314
+- 542761
+- 542018
+- 541837
+- 542703
+- 542702
+- 542020
+- 540890
+- 541866
+- 541863
+- 542236
+- 541117
+- 541305
+- 542375
+- 732494
