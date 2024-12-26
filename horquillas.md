@@ -43,7 +43,7 @@
 |Tipo de transmisión                 |Powershift    |Powershift      |
 
 # Doosan
-|Modelo                              |D 160S-5      |
+|Modelo                              |`D 160S-5`    |
 |------------------------------------|--------------|
 |capacidad de carga (Kg)             |16.000        |
 |Centro de carga (mm)                |600           |
@@ -186,7 +186,7 @@
 - 311953 (BT - SPE140)
 - 311954 (BT - SPE160)
 
-## CATERPILLAR (falta)
+## CATERPILLAR (Listo)
 - 312106 (CATERPILLAR - GP25NM)
 - 312091 (CATERPILLAR - GP25NM 5)
 - 312105 (CATERPILLAR - GP25NM)
@@ -202,7 +202,7 @@
 - 312743 (MANITOU - MI-30G)
 - 312451 (MANITOU - MI-30G)
 
-## DOOSAN (falta)
+## DOOSAN (Listo)
 - 312666 (DOOSAN - D 160S-5)
 
 ## HYUNDAI (listo)
