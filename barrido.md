@@ -18,7 +18,7 @@
 - `Kilometraje`, `Horometro`.
 - `3313329`, Solicitar kilometraje.
 
-## Camión Grúa
+## Camión Grúa (cambiar los que faltan)
 - `Kilometraje`, `Horometro`, `Motor`
 
 ## Camiones petroleador
