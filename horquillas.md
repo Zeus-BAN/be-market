@@ -48,8 +48,8 @@
 |capacidad de carga (Kg)             |16.000        |
 |Centro de carga (mm)                |600           |
 |altura de elevacion (M)             |5             |
-|altura con mástil retraido (M)      |5,45          |
-|Velocidad de desplazamiento (km/h)  |29-33         |
+|altura con mástil retraido (M)      |2,75          |
+|Velocidad de desplazamiento (km/h)  |29            |
 |peso de servicio total (Kg)         |18.900        |
 |dimensiones de horquilla (mm)       |1.660         |
 |motor                               |Deutz TD3.6   |
@@ -133,11 +133,11 @@
 |Tipo de transmisión                 |Powershift      |Powershift           |
 
 # Toyota
-|Modelo                              | 6FBRE14 |`32.8FG20`|`8FBRE16S`|`8FG50N`  |`8FBN25` |`FD100`    |`32.8FG18`|`8FBN20` |8FBRE14S |FB20     |FG20      |
+|Modelo                              |`6FBRE14`|`32.8FG20`|`8FBRE16S`|`8FG50N`  |`8FBN25` |`FD100`    |`32.8FG18`|`8FBN20` |8FBRE14S |`FB20`   |`FG20`    |
 |------------------------------------|---------|----------|----------|----------|---------|-----------|----------|---------|---------|---------|----------|
 |capacidad de carga (Kg)             |1.350    |2.000     |1.600     |5.000     |2.500    |10.000     |1.800     |2.000    |1.400    |2.000    |2.000     |
 |Centro de carga (mm)                |600      |500       |600       |600       |500      |600        |500       |500      |600      |500      |500       |
-|altura de elevación (M)             |5,2      |4,7       |5,432     |4,0       |4,7      |4,4        |4,22      |3,0      |5,432    |3,3      |4,22      |
+|altura de elevación (M)             |5,2      |4,7       |5,432     |4,0       |4,7      |4,4        |4,22      |3,0      |5,432    |4,2      |4,22      |
 |altura con mástil retraido (M)      |2,1      |2,145     |2,182     |2,35      |2,120    |2,89       |1,995     |2,085    |2,1      |2,1      |2,13      |
 |Velocidad de desplazamiento (km/h)  |18       |18        |10        |24        |16       |32         |18,5      |14,5     |10       |12,5     |17        |
 |peso de servicio total (Kg)         |2.630    |3.250     |2951      |8.500     |4.180    |12.980     |2.610     |2.710    |2.753    |3.500    |3.200     |
@@ -146,3 +146,64 @@
 |Potencia del motor (kW)             |8        |40        |5         |65        |10,7     |125        |40        |12,2     |5        |12       |40        |
 |Número de cilindros                 |-        |4         |-         |4         |-        |6          |4         |-        |-        |-        |4         |
 |Tipo de transmisión                 |-        |Automática|-         |Powershift|-        |Powershift |Automática|-        |-        |-        |Automática|
+
+# afis listos:
+
+## Mitsubishi (listo)
+- 312101 (mitsubishi - FD50NM)
+- 312104 (MITSUBISHI - FD70E)
+- 312103 (MITSUBISHI - FD70E)
+- 312102 (MITSUBISHI - FD50NM)
+
+## Toyota (Listo)
+- 662258 (TOYOTA - 6FBRE14)
+- 312222 (TOYOTA - 8FG50N)
+- 312480 (TOYOTA - FD100)
+- 661952 (TOYOTA - 8FBRE16S)
+
+- 662257 (TOYOTA - 6FBRE14)
+- 312731 (TOYOTA - 32.8FG20)
+- 312732 (TOYOTA - 32.8FG20)
+- 312724 (TOYOTA - 8FBN25)
+
+- 312728  (TOYOTA - 32.8FG18)
+- 3115071 (TOYOTA - FG20)
+- 311951  (TOYOTA - 8FBRE14S)
+- 312741  (TOYOTA - 8FBN20)
+
+- 311592 (TOYOTA - FB20)
+- 312723 (TOYOTA - 8FBN25)
+
+## KOMATSU (listo)
+- 312738 (KOMATSU - FD100-8)
+
+## HYSTER (Listo)
+- 312477 (HYSTER - H50XT)
+- 312592 (HYSTER - J2.0UT)
+- 312478 (HYSTER - H40XT)
+
+## BT (listo)
+- 311953 (BT - SPE140)
+- 311954 (BT - SPE160)
+
+## CATERPILLAR (falta)
+- 312106 (CATERPILLAR - GP25NM)
+- 312091 (CATERPILLAR - GP25NM 5)
+- 312105 (CATERPILLAR - GP25NM)
+- 312107 (CATERPILLAR - GP25NM)
+- 312089 (CATERPILLAR - DP70NM)
+- 312090 (CATERPILLAR - GP25NM 5)
+
+## AUSA (listo)
+- 312748 (AUSA - C501 HX4)
+
+## MANITOU (listo)
+- 312744 (MANITOU - MI-25G)
+- 312743 (MANITOU - MI-30G)
+- 312451 (MANITOU - MI-30G)
+
+## DOOSAN (falta)
+- 312666 (DOOSAN - D 160S-5)
+
+## HYUNDAI (listo)
+- 312423 (HYUNDAI - 160D 7E)
