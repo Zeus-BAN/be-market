@@ -2,22 +2,18 @@
 
 ## Bulldozer (listo)
 
-## Bus (No aparecen atributos comparativos)
-- BUS KING LONG XMQ6127Y (632537): solo 5 atributos, sin ficha tecnica.
-- BUS KING LONG XMQ6127Y (632536): sin ficha tecnica.
+## Bus (Listo)
 - `Sin atributos comparativos`.
 
 ## Cama Baja
-- SEMI REMOLQUE MACHILE SCB 50 3E (672142): Solo 5 atributos, sin ficha tecnica.
-- SEMI REMOLQUE RANDON SR BA AB 03 20 (672143): Solo 5 atributos, sin ficha tecnica.
+- SEMI REMOLQUE MACHILE SCB 50 3E (672142): Solo 5 atributos, sin ficha tecnica [No encontrado - https://www.machile.cl/copia-de-semirremolque-cama-baja-30-35].
 - `Sin atributos compartivos`.
 
 ## Camion Lubricador (listo)
-- CAMION LUBRICADOR/PETROLERO BEIBEN 1630 (832591): Sin ficha tecnica
+- `CAMION LUBRICADOR/PETROLERO BEIBEN 1630 (832591): Sin ficha tecnica (no encontrada)`
 
 ## Camiones aljibe (listo)
 - Se intento +5 veces agregar los datos de kilometraje y horometro sin poder tener éxito, especulo que puede ser un problema en inrental
-- CAMION ESTANQUE VOLVO VM EST 20M3 (332588): Falta de ficha tecnica.
 
 ## Camión Grúa (listo)
 - solo faltan los kilometrjes y horómetro que intento modificar sin éxito
@@ -25,8 +21,7 @@
 ## Camiones petroleador (listo)
 
 ## Camiones Plano (listo)
-- CAMION PLANO SINOTRUK HOMAN 612.I PICK UP (512522): Sin Ficha Tecnica.
-- CAMION PLANO CHEVROLET NPR E5 (512697): Sin Ficha Tecnica.
+- `CAMION PLANO SINOTRUK HOMAN 612.I PICK UP (512522): Sin Ficha Tecnica. (no encontrada)`
 
 ## Camiones rigido (listo)
 
@@ -35,9 +30,6 @@
 ## Camiones tolva (listo)
 
 ## Cargadores Frontales (listo)
-- CARGADOR FRONTAL VOLVO L90F (282656): Sin ficha Tecnica.
-- CARGADOR FRONTAL JCB 436ZX (282735): Sin Ficha Tecnica.
-- CARGADOR FRONTAL LIEBHERR L550 (282654): Sin Ficha Tecnica.
 - `Sin tributos para comparar` 
 
 ## Chancadoras (listo)
@@ -54,20 +46,13 @@
 ## Generadores (listo)
 
 ## Excabadoras (listo)
-- EXCAVADORA JCB JS 220 LC AUTO (252612): Sin ficha tecnica.
-- EXCAVADORA JOHN DEERE 210G LC (252391): Si Ficha tecnica.
-- EXCAVADORA LIEBHERR R922 LC (252649): Sin ficha tecnica.
-- EXCAVADORA KOMATSU PC210LC10M0 (252372): Sin ficha tecnica.
-- EXCAVADORA HITACHI ZAXIS 45OLC 3ME (252650): Sin ficha tecnica.
+- `EXCAVADORA LIEBHERR R922 LC (252649): Sin ficha tecnica. (encontrada la R922)`
 
 ## Gruas Horquilla (listo)
 
 ## Implementos (listo)
-- CABEZAL FORESTAL WARATAH HTH616C (5215728): 4 Atributos.
 
 ## Manipuladores telescopicos (listo)
-- MANIPULADOR BOBCAT T35100SL (322232): Sin Ficha tecnica.
-- `Potencia`.
 
 ## Minicargadores (listo)
 - `Solo 2 Atributos para comparar`.
@@ -79,7 +64,7 @@
 ## Plataformas Articuladas (listo)
 
 ## PLataformas Tijera (listo)
-- PLATAFORMA TIJERAS COFADI HA400E (552559): Sin ficha tecnica.
+- `PLATAFORMA TIJERAS COFADI HA400E (552559): Sin ficha tecnica. (no encontrada)`
 
 ## Retrocargadoras (listo)
 
@@ -91,7 +76,6 @@
 - `sin atributos para comparar`.
 
 ## Torre de iluminación (listo)
-- TORRE ILUMINACION ATLAS COPCO HILIGHT V4W (3414387): Sin ficha tecnica.
 
 ## Transpaletas (listo)
 - `Horometro`
