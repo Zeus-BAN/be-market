@@ -7,7 +7,7 @@
 
 ## Cama Baja
 - SEMI REMOLQUE MACHILE SCB 50 3E (672142): Sin ficha tecnica [No encontrado - https://www.machile.cl/copia-de-semirremolque-cama-baja-30-35].
-- SEMI REMOLQUE RANDON SR BA AB 03 20 (672143): 5 atributos, sin ficha tecnica.
+- SEMI REMOLQUE RANDON SR BA AB 03 20 (672143): Sin ficha tecnica.
 - `Sin atributos compartivos`.
 
 ## Camion Lubricador (listo)
