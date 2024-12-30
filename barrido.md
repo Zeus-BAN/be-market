@@ -17,7 +17,15 @@
 - Se intento +5 veces agregar los datos de kilometraje y horometro sin poder tener éxito, especulo que puede ser un problema en inrental
 
 ## Camión Grúa (listo)
-- solo faltan los kilometrjes y horómetro que intento modificar sin éxito
+- Solo faltan los kilometrjes y horómetro que intento modificar sin éxito
+- JMC CAMION PLANO CONQUER 5.5T (511099): Foto referencial.
+  - Ubicación: <mark>CM</mark>
+- JMC CAMION PLANO CARRYING 4T SC (511763): Foto referencial.
+  - Ubicación: <mark>CM</mark>
+- JMC CAMION PLANO CONQUER 7.0T (511100): Foto referencial.
+  - Ubicación: <mark>CM</mark>
+- JMC FURGON CARRYING PLUS 3T CS AC (721764): Foto referencial.
+  - Ubicación: <mark>CM</mark>
 
 ## Camiones petroleador (listo)
 
@@ -50,6 +58,10 @@
 - `EXCAVADORA LIEBHERR R922 LC (252649): Sin ficha tecnica. (encontrada la R922)`
 
 ## Gruas Horquilla (listo)
+- BT GRUA HORQUILLA SPE140 (311953): `Foto referencial`
+  - Ubicación: <mark>CM</mark>
+- TOYOTA GRUA HORQUILLA FG20 (3112049): `Foto referencial`
+  - Ubicación: <mark>Santiago</mark>
 
 ## Implementos (listo)
 
